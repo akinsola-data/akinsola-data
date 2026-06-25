@@ -9,7 +9,7 @@ Skills I'm Building
 - Data Visualisation · Seaborn · Matplotlib
 - Statistical Analysis
 
-##  Projects
+Projects
 
 - [Titanic Survival Prediction](https://github.com/akinsola-data/titanic-survival-prediction)
   — ML Classification · Logistic Regression · Decision Tree · Random Forest
