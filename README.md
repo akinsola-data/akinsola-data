@@ -1,22 +1,77 @@
-Hi, I'm Akinsola 
+# Akinsola Emmanuel — Data Scientist & AI Engineer 
 
-Statistics student at the University of Ibadan, Nigeria.
-Building expertise in Data Science and Machine Learning.
+> **Specializing in MLOps, Retrieval-Augmented Generation (RAG), Multilingual NLP & Quantitative Macroeconomics**
 
-Skills I'm Building
-- Python · Pandas · NumPy
-- Scikit-learn · Machine Learning
-- Data Visualisation · Seaborn · Matplotlib
-- Statistical Analysis
+```text
+================================================================================
+EXECUTIVE ENGINEERING SUMMARY
+================================================================================
+Architecture Pillar : End-to-End AI Microservices (From Vector Store to Cloud Container)
+Core Specialties    : Generative AI (RAG) | African Language NLP | Quantitative Finance
+MLOps Discipline    : Docker Containerization | FastAPI | GitHub Actions CI/CD | Streamlit
+Target Mandate      : Delivering zero-hallucination enterprise AI and production ETL pipelines
+================================================================================
+```
 
-Projects
-- ++[AfriJuris RAG: AI Legal Assistant for Nigerian Commercial Law](https://github.com/akinsola-data/afri-juris-rag)++ — GenAI · RAG Architecture · Vector Database · MLOps · BOFIA 2020 / CBN Regulations
-- ++[NaijaFinProtect: Multilingual Fraud & Phishing Detection API](https://github.com/akinsola-data/naija-fin-protect)++ — MLOps · Docker · FastAPI · Streamlit · African Language NLP (Pidgin/Yoruba/Igbo/Hausa)
-- ++[Naira in Freefall: Nigeria Currency Crisis Analysis](https://github.com/akinsola-data/naira-currency-analysis)++ — Quantitative Macro Analysis · Time-Series Decomposition · Multi-Source Wrangling · ML Exchange Rate Forecasting
-- ++[Breast Cancer Prediction](https://github.com/akinsola-data/breast-cancer-prediction)++ — ML Classification · 96.49% Accuracy · Medical Data · Feature Importance
+---
 
-Goal: To become a world-class Data Scientist working globally. Interested in African language NLP and quantitative analysis.
+##  Professional Profile
 
+I build, containerize, and deploy production-grade Generative AI systems, multilingual NLP microservices, and automated macroeconomic data engineering pipelines. 
 
-Connect
-- Location: Ibadan, Nigeria
+Combining deep quantitative rigor with enterprise MLOps discipline, I specialize in architecting air-gapped Vector Databases, fine-tuning classification pipelines for complex low-resource syntax (African language code-switching), and translating raw, messy multi-source data into actionable strategic telemetry for global corporate boards and central bank compliance officers.
+
+---
+
+##  Core Architectural Stack
+
+| Pillar | Engineering Technologies & Frameworks |
+| :--- | :--- |
+| **Generative AI & NLP** | RAG Architecture, Local Vector Databases, Advanced N-Gram TF-IDF Sublinear Scaling, Scikit-Learn |
+| **MLOps & Microservices** | Docker, FastAPI, Pydantic Schema Validation, Interactive Swagger UI, Joblib Serialization |
+| **Cloud & Data Engineering** | Hugging Face Spaces Cloud Load Balancers, GitHub Actions Cron Automation (CI/CD), Multi-Source ETL |
+| **Enterprise Visualization** | Streamlit Chat Architecture, Dual-Axis Plotting, Multiplicative Time-Series Decomposition |
+| **Domain Intelligence** | Nigerian Commercial Banking Law (BOFIA 2020), CITA Tax Structures, Central Bank FX Reserve Regimes |
+
+---
+
+##  Production Portfolio & Live Cloud Architecture
+
+###  1. AfriJuris RAG: AI Legal Assistant for Nigerian Commercial Law & CBN Regulations
+* **Live Cloud App:** [Launch AfriJuris RAG on Hugging Face Spaces](https://huggingface.co/spaces/Akinsolab46/afri-juris-rag)
+* **GitHub Repository:** [akinsola-data/afri-juris-rag](https://github.com/akinsola-data/afri-juris-rag)
+* **System Architecture:** Generative AI · RAG Engine · Dense Vector Database · Streamlit Chat UI · Docker MLOps
+* **Value Delivered:** An autonomous legal compliance platform that indexes authoritative extracts across 8 regulatory pillars (BOFIA 2020, CBN FX guidelines, CITA 2023, NDPA 2023). Implements rigid cosine similarity thresholds (`> 0.05`) to provide verifiable statutory citations with **zero hallucination**.
+
+---
+
+###  2. NaijaFinProtect: Multilingual Financial Fraud & Phishing Detection API
+* **Live Cloud App:** [Launch NaijaFinProtect on Hugging Face Spaces](https://huggingface.co/spaces/Akinsolab46/naija-fin-protect)
+* **GitHub Repository:** [akinsola-data/naija-fin-protect](https://github.com/akinsola-data/naija-fin-protect)
+* **System Architecture:** MLOps · Docker · FastAPI Backend · Streamlit Corporate Dashboard · African Language NLP
+* **Value Delivered:** An enterprise microservice designed for the Pan-African fintech ecosystem. Extracts high-variance TF-IDF bigrams (`ngram_range=(1, 2)`) to classify phishing and loan shark extortion across code-switched **Pidgin, Yoruba, Igbo, Hausa, and English**, achieving **100% out-of-sample accuracy**.
+
+---
+
+###  3. Naira in Freefall: A Quantitative Analysis of Nigeria's Currency Crisis (2015–2024)
+* **GitHub Repository:** [akinsola-data/naira-currency-analysis](https://github.com/akinsola-data/naira-currency-analysis)
+* **System Architecture:** Automated CI/CD (GitHub Actions) · Multi-Source ETL · Time-Series Decomposition · Ridge Regression
+* **Value Delivered:** A deep macroeconomic investigation merging Central Bank of Nigeria (CBN) policy dates, OPEC oil prices, and World Bank inflation proxies. Successfully proves **"The Great Decoupling"** (post-2021 currency detachment from oil prices) and features an automated monthly ETL cron job (`0 6 1 * *`) that dynamically updates the repository's hero charts.
+
+---
+
+###  4. Breast Cancer Prediction: Medical AI & Feature Importance
+* **GitHub Repository:** [akinsola-data/breast-cancer-prediction](https://github.com/akinsola-data/breast-cancer-prediction)
+* **System Architecture:** Medical Tabular Analytics · Scikit-Learn Classification · Model Telemetry
+* **Value Delivered:** An optimized statistical classification engine trained on highly sensitive oncology data. Demonstrates strict feature importance tracking to ensure AI explainability in clinical environments, achieving a robust **96.49% testing accuracy**.
+
+---
+
+##  Value Proposition for Global Employers
+
+I do not just build machine learning models in isolated Jupyter Notebooks. I deliver the complete engineering lifecycle required for modern enterprise AI:
+1. **Air-Gapped Compliance & AI Safety:** I ensure production models operate with strict hallucination guardrails and Pydantic validation to protect corporate liability.
+2. **Autonomous Automation:** I build self-maintaining cloud ETL pipelines that eliminate manual data engineering overhead.
+3. **Executive Communication:** I translate dense statistical metrics (RMSE, Cosine Distance, Attention Weights) into highly legible corporate strategies for financial risk management and regulatory compliance.
+
+> **Open to global remote AI engineering roles, quantitative consulting contracts, and senior data science mandates.** 
