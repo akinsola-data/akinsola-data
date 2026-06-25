@@ -15,9 +15,7 @@ Projects
 - ++[Naira in Freefall: Nigeria Currency Crisis Analysis](https://github.com/akinsola-data/naira-currency-analysis)++ — Quantitative Macro Analysis · Time-Series Decomposition · Multi-Source Wrangling · ML Exchange Rate Forecasting
 
 Goal: To become a world-class Data Scientist working globally. Interested in African language NLP and quantitative analysis.
-Goal
-To become a world-class Data Scientist working globally.
-Interested in African language NLP and quantitative analysis.
+
 
 Connect
 - Location: Ibadan, Nigeria
