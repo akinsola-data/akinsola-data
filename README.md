@@ -10,12 +10,11 @@ Skills I'm Building
 - Statistical Analysis
 
 Projects
+- ++[Titanic Survival Prediction](https://github.com/akinsola-data/titanic-survival-prediction)++ — ML Classification · Logistic Regression · Decision Tree · Random Forest
+- ++[Breast Cancer Prediction](https://github.com/akinsola-data/breast-cancer-prediction)++ — ML Classification · 96.49% Accuracy · Medical Data · Feature Importance
+- ++[Naira in Freefall: Nigeria Currency Crisis Analysis](https://github.com/akinsola-data/naira-currency-analysis)++ — Quantitative Macro Analysis · Time-Series Decomposition · Multi-Source Wrangling · ML Exchange Rate Forecasting
 
-- [Titanic Survival Prediction](https://github.com/akinsola-data/titanic-survival-prediction)
-  — ML Classification · Logistic Regression · Decision Tree · Random Forest
-
-- [Breast Cancer Prediction](https://github.com/akinsola-data/breast-cancer-prediction)
-  — ML Classification · 96.49% Accuracy · Medical Data · Feature Importance
+Goal: To become a world-class Data Scientist working globally. Interested in African language NLP and quantitative analysis.
 Goal
 To become a world-class Data Scientist working globally.
 Interested in African language NLP and quantitative analysis.
