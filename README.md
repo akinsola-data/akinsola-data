@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Akinsola 
 
-<!--
-**akinsola-data/akinsola-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics student at the University of Ibadan, Nigeria.
+Building expertise in Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+Skills I'm Building
+- Python · Pandas · NumPy
+- Scikit-learn · Machine Learning
+- Data Visualisation · Seaborn · Matplotlib
+- Statistical Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current Projects
+- Titanic Survival Prediction — ML Classification (coming soon)
+
+Goal
+To become a world-class Data Scientist working globally.
+Interested in African language NLP and quantitative analysis.
+
+Connect
+- Location: Ibadan, Nigeria
