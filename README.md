@@ -10,7 +10,8 @@ Skills I'm Building
 - Statistical Analysis
 
 Current Projects
-- Titanic Survival Prediction — ML Classification (coming soon)
+- [Titanic Survival Prediction](https://github.com/akinsola-data/titanic-survival-prediction) 
+  — ML Classification · Python · Scikit-learn
 
 Goal
 To become a world-class Data Scientist working globally.
