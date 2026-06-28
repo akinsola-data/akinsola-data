@@ -15,7 +15,7 @@ Target Mandate      : Delivering zero-hallucination enterprise AI and production
 
 ---
 
-## 📌 Professional Profile
+##  Professional Profile
 
 I build, containerize, and deploy production-grade Generative AI systems, multilingual NLP microservices, LLM evaluation frameworks, and automated macroeconomic data engineering pipelines. 
 
@@ -23,7 +23,7 @@ Combining deep quantitative rigor with enterprise MLOps discipline, I specialize
 
 ---
 
-## 🏗️ Core Architectural Stack
+##  Core Architectural Stack
 
 | Pillar | Engineering Technologies & Frameworks |
 | :--- | :--- |
@@ -35,9 +35,9 @@ Combining deep quantitative rigor with enterprise MLOps discipline, I specialize
 
 ---
 
-## 📂 Production Portfolio & Live Cloud Architecture
+##  Production Portfolio & Live Cloud Architecture
 
-### 🤖 1. EvalScout AI: LLM-as-a-Judge & Hallucination Benchmark Engine
+###  1. EvalScout AI: LLM-as-a-Judge & Hallucination Benchmark Engine
 * **Live Cloud App:** [Launch EvalScout AI on Hugging Face Spaces](https://huggingface.co/spaces/Akinsolab46/eval-scout-ai)
 * **GitHub Repository:** [akinsola-data/eval-scout-ai](https://github.com/akinsola-data/eval-scout-ai)
 * **System Architecture:** MLOps · LLM-as-a-Judge · Hallucination Detection · Palantir UI · Docker
@@ -45,7 +45,7 @@ Combining deep quantitative rigor with enterprise MLOps discipline, I specialize
 
 ---
 
-### ⚖️ 2. AfriJuris RAG: AI Legal Assistant for Nigerian Commercial Law & CBN Regulations
+###  2. AfriJuris RAG: AI Legal Assistant for Nigerian Commercial Law & CBN Regulations
 * **Live Cloud App:** [Launch AfriJuris RAG on Hugging Face Spaces](https://huggingface.co/spaces/Akinsolab46/afri-juris-rag)
 * **GitHub Repository:** [akinsola-data/afri-juris-rag](https://github.com/akinsola-data/afri-juris-rag)
 * **System Architecture:** Generative AI · RAG Engine · Dense Vector Database · Streamlit Chat UI · Docker MLOps
@@ -53,7 +53,7 @@ Combining deep quantitative rigor with enterprise MLOps discipline, I specialize
 
 ---
 
-### 🛡️ 3. NaijaFinProtect: Multilingual Financial Fraud & Phishing Detection API
+###  3. NaijaFinProtect: Multilingual Financial Fraud & Phishing Detection API
 * **Live Cloud App:** [Launch NaijaFinProtect on Hugging Face Spaces](https://huggingface.co/spaces/Akinsolab46/naija-fin-protect)
 * **GitHub Repository:** [akinsola-data/naija-fin-protect](https://github.com/akinsola-data/naija-fin-protect)
 * **System Architecture:** MLOps · Docker · FastAPI Backend · Streamlit Corporate Dashboard · African Language NLP
@@ -61,21 +61,21 @@ Combining deep quantitative rigor with enterprise MLOps discipline, I specialize
 
 ---
 
-### 📈 4. Naira in Freefall: A Quantitative Analysis of Nigeria's Currency Crisis (2015–2024)
+###  4. Naira in Freefall: A Quantitative Analysis of Nigeria's Currency Crisis (2015–2024)
 * **GitHub Repository:** [akinsola-data/naira-currency-analysis](https://github.com/akinsola-data/naira-currency-analysis)
 * **System Architecture:** Automated CI/CD (GitHub Actions) · Multi-Source ETL · Time-Series Decomposition · Ridge Regression
 * **Value Delivered:** A deep macroeconomic investigation merging Central Bank of Nigeria (CBN) policy dates, OPEC oil prices, and World Bank inflation proxies. Successfully proves **"The Great Decoupling"** (post-2021 currency detachment from oil prices) and features an automated monthly ETL cron job (`0 6 1 * *`) that dynamically updates the repository's hero charts.
 
 ---
 
-### 🏥 5. Breast Cancer Prediction: Medical AI & Feature Importance
+###  5. Breast Cancer Prediction: Medical AI & Feature Importance
 * **GitHub Repository:** [akinsola-data/breast-cancer-prediction](https://github.com/akinsola-data/breast-cancer-prediction)
 * **System Architecture:** Medical Tabular Analytics · Scikit-Learn Classification · Model Telemetry
 * **Value Delivered:** An optimized statistical classification engine trained on highly sensitive oncology data. Demonstrates strict feature importance tracking to ensure AI explainability in clinical environments, achieving a robust **96.49% testing accuracy**.
 
 ---
 
-## 🌐 Value Proposition for Global Employers
+##  Value Proposition for Global Employers
 
 I do not just build machine learning models in isolated Jupyter Notebooks. I deliver the complete engineering lifecycle required for modern enterprise AI:
 1. **Air-Gapped Compliance & AI Safety:** I ensure production models operate with strict hallucination guardrails, LLM-as-a-judge validation, and Pydantic schema enforcement to protect corporate liability.
